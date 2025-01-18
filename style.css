@@ -91,7 +91,9 @@ img {
     color: white;
     text-decoration: none;
 }
-
+ .link:hover{
+    background-color: lawngreen;
+}
 
 /* .profile .profile-img {
     width: 120px;
@@ -182,3 +184,4 @@ color: white;
 @media screen {
     
 } */
+ 
